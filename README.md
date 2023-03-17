@@ -18,7 +18,7 @@ This workshop will provide demonstrations and exercises for performing basic bio
 
 ## To download the dataset, click the following link and "copy" to your local folder.
 
-[Dropbox with fastq dataset](https://www.dropbox.com/scl/fo/gx9ef004h5l537d58gk13/h?dl=0&rlkey=ouafrzefs7wv9nhbabzhhu9yb)
+[Click here to download fastq dataset from Dropbox](https://www.dropbox.com/scl/fo/gx9ef004h5l537d58gk13/h?dl=0&rlkey=ouafrzefs7wv9nhbabzhhu9yb)
 
 ---
 
