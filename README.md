@@ -13,12 +13,15 @@ YouTube:
 ## Course Description 
 
 This workshop will provide demonstrations and exercises for performing basic bioinformatics analysis of bacterial genomic data as it pertains to quality control and data preprocessing, which are critical to obtaining high-quality data for downstream data analysis. Specifically, we will assess general data quality using FastQC, filter low quality reads using fastp and remove host sequence content using a combination of Bowtie 2 and samtools.  We will also explore the use of checkM to assess the completeness and contamination of bacterial genome assemblies.
+
 ---
+
 ## To download the dataset, click the following link and "copy" to your local folder.
 
-https://www.dropbox.com/scl/fo/gx9ef004h5l537d58gk13/h?dl=0&rlkey=ouafrzefs7wv9nhbabzhhu9yb
+[Dropbox with fastq dataset](https://www.dropbox.com/scl/fo/gx9ef004h5l537d58gk13/h?dl=0&rlkey=ouafrzefs7wv9nhbabzhhu9yb)
 
 ---
+
 ## To clone this repository, type the following command in your terminal.
 
 git clone https://github.com/mmid-bioinformatics-workshop/2023-03-23-Bacterial-Genomics.git
