@@ -16,13 +16,13 @@ This workshop will provide demonstrations and exercises for performing basic bio
 
 ---
 
-## To download the fastq dataset, click the following link and "copy" to your local folder.
+## To download the fastq dataset from Jesser et al., 2019 (https://doi.org/10.3389/fpubh.2019.00066), click the following link and "copy" to your local folder.
 
 [Click here to download fastq dataset from Dropbox](https://www.dropbox.com/scl/fo/gx9ef004h5l537d58gk13/h?dl=0&rlkey=ouafrzefs7wv9nhbabzhhu9yb)
 
 ---
 
-## To download the Bowtie 2 index, click the following link and "copy" to your local folder.
+## To download the IGenomes *Homo Sapiens* Bowtie 2 index, click the following link and "copy" to your local folder.
 
 https://www.dropbox.com/s/wrb253faf3i1bfo/Bowtie2Index.tar.gz?dl=0
 
