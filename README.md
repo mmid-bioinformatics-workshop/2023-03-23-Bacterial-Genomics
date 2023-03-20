@@ -24,7 +24,7 @@ This workshop will provide demonstrations and exercises for performing basic bio
 
 ## To download the Bowtie 2 index, click the following link and "copy" to your local folder.
 
-[Click here to download Bowtie 2 Index from Dropbox] (https://www.dropbox.com/s/wrb253faf3i1bfo/Bowtie2Index.tar.gz?dl=0)
+https://www.dropbox.com/s/wrb253faf3i1bfo/Bowtie2Index.tar.gz?dl=0
 
 ---
 
