@@ -16,9 +16,9 @@ This workshop will provide demonstrations and exercises for performing basic bio
 
 ---
 
-## To download the fastq dataset from Jesser et al., 2019, click the following link and "copy" to your local folder.
+## To download the fastq dataset from Jesser et al., 2019, click the following link and "copy" to your local folder.  Please note, the fastq files have been downsampled to 20X coverage using seqtk sample.
 
-[Click here to download fastq dataset from Dropbox](https://www.dropbox.com/scl/fo/gx9ef004h5l537d58gk13/h?dl=0&rlkey=ouafrzefs7wv9nhbabzhhu9yb)
+https://drive.google.com/drive/folders/17huOdhd_taVIvgyRmvp2ug_W1teAE1OR?usp=share_link
 
 ---
 
