@@ -23,10 +23,13 @@ git clone https://github.com/mmid-bioinformatics-workshop/2023-03-23-Bacterial-G
 
 # 6. Download the fastq dataset to the Bacterial_Genomics directory
 
-https://www.dropbox.com/scl/fo/gx9ef004h5l537d58gk13/h?dl=0&rlkey=ouafrzefs7wv9nhbabzhhu9yb
+https://drive.google.com/drive/folders/1bm2I6Ti4t-Bymw2k6K_I2JE_5cIL46tM?usp=share_link
+
 
 # 7. Click on the link to download the Bowtie2 index from the MMID Bioinformatics Github repository to the Bacterial_Genomics folder
+
 https://www.dropbox.com/s/wrb253faf3i1bfo/Bowtie2Index.tar.gz?dl=0
+
 
 # 8. Unzip the fastq.zip folder than gunzip the individual fastq.gz files
 
