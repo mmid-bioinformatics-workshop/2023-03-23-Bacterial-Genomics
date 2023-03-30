@@ -24,7 +24,7 @@ https://drive.google.com/drive/folders/1bm2I6Ti4t-Bymw2k6K_I2JE_5cIL46tM?usp=sha
 
 ## To download the iGenomes *Homo sapiens* Bowtie 2 index, click the following link and "copy" to your local folder.
 
-https://www.dropbox.com/s/wrb253faf3i1bfo/Bowtie2Index.tar.gz?dl=0
+https://drive.google.com/drive/folders/1r_U5-LNKQxgniSfu6a9Pa3j2IoDb0Em4?usp=share_link
 
 ---
 
